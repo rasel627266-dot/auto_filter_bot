@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # তোমার টোকেন আর চ্যানেল আইডি
-BOT_TOKEN = "তোমার_বটের_TOKEN"
+BOT_TOKEN = 8258786899:AAGYHqWnl1NIkNm-nZb2ylWdrMjmqdQt7gw
 CHANNEL_ID = -1002055880260  # তোমার চ্যানেল আইডি
 
 logging.basicConfig(level=logging.INFO)
