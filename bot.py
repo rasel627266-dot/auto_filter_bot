@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # ====== CONFIG ======
 BOT_TOKEN = "8258786899:AAGYHqWnl1NIkNm-nZb2ylWdrMjmqdQt7gw"
-CHANNEL_ID = "-1002055880260"
+CHANNEL_ID = "https://t.me/dblink7775y"
 
 # Pre-defined movie database (movie name: download link)
 # এখানে আমরা Channel URL ব্যবহার করছি
